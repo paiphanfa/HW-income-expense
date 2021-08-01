@@ -1,0 +1,19 @@
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\bin\Debug\netcoreapp3.1\HW income-expense.exe
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\bin\Debug\netcoreapp3.1\HW income-expense.deps.json
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\bin\Debug\netcoreapp3.1\HW income-expense.runtimeconfig.json
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\bin\Debug\netcoreapp3.1\HW income-expense.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\bin\Debug\netcoreapp3.1\HW income-expense.dll
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\bin\Debug\netcoreapp3.1\HW income-expense.pdb
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\obj\Debug\netcoreapp3.1\HW income-expense.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\obj\Debug\netcoreapp3.1\HW income-expense_MarkupCompile.cache
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\obj\Debug\netcoreapp3.1\HW income-expense_MarkupCompile.lref
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\obj\Debug\netcoreapp3.1\HW income-expense.g.resources
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\obj\Debug\netcoreapp3.1\HW income-expense.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\obj\Debug\netcoreapp3.1\HW income-expense.AssemblyInfo.cs
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\obj\Debug\netcoreapp3.1\HW income-expense.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\obj\Debug\netcoreapp3.1\HW income-expense.dll
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\obj\Debug\netcoreapp3.1\HW income-expense.pdb
+C:\Users\Asus\source\repos\HW income-expense\HW income-expense\obj\Debug\netcoreapp3.1\HW income-expense.genruntimeconfig.cache
